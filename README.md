@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on anything challenging and that would help create more memories for others.
 - 📫 you can reach me by contacting me here https://www.sharathravi.com/contact. 
 
+<h3 align="center"> Hi There! </h3>
 <!---
 SlinkyCarp/SlinkyCarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
